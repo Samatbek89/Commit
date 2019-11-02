@@ -12,7 +12,7 @@ public class Main {
         int temperature = 20;
 
 
-        if (myAge == 20-45 && temperature < +35 && temperature > -20);{
+        if (myAge == 20 || myAge <= 45 && temperature < 35 && temperature > -20);{
             System.out.println("Можно идти гулять");
         }
 
